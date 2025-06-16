@@ -46,6 +46,7 @@ You can use:
 - Model score: R² value or Mean Squared Error
 - Graph: Predicted vs Actual house prices
 - Table: Sample predictions
+  
 
 
 
