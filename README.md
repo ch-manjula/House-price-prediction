@@ -18,7 +18,7 @@ This is a beginner-friendly machine learning project where we predict house pric
 ## 📁 Dataset
 
 You can use:
-- A housing dataset from Kaggle, or
+- A housing dataset from Kaggle
 - Built-in datasets like the `diamonds` dataset from Seaborn
 
 ---
