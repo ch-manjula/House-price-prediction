@@ -35,7 +35,7 @@ You can use:
 
 ## 🚀 How to Run the Project
 
-1. Open the project notebook in [Google Colab](https://colab.research.google.com)
+1. Open jupyter,new note book and rename it
 2. Upload  dataset (CSV) 
 3. write the code , train the model, and view results
 
